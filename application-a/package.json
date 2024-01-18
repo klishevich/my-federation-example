@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "scichart": "^3.2.555"
   },
   "devDependencies": {
     "@babel/core": "^7.8.6",
@@ -19,6 +20,6 @@
     "html-webpack-plugin": "^5.6.0",
     "serve": "^11.3.0",
     "webpack": "^5.89.0",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^5.0.1"
   }
 }

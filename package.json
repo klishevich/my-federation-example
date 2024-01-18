@@ -1,9 +1,6 @@
 {
     "name": "my-federation-example",
     "private": true,
-    "workspaces": [
-      "packages/*"
-    ],
     "scripts": {
       "dev1": "cd application-a && npm run dev",
       "dev2": "cd application-b && npm run dev",
